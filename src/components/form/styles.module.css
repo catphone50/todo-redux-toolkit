@@ -1,0 +1,25 @@
+.addButtonTodo {
+  border: 1px solid rgb(88, 77, 99);
+  padding: 0px 13px;
+  margin-left: 15px;
+  color: rgb(88, 77, 99);
+  font-weight: 500;
+  background-color: #f1e3f3;
+  border-radius: 2px;
+  height: auto;
+}
+.inputTodo {
+  padding: 2px 3px;
+  background-color: #f1e3f3;
+  border: 1px solid rgb(88, 77, 99);
+  color: rgb(88, 77, 99);
+  outline: none;
+  border-radius: 2px;
+}
+
+.formTodo {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  margin-top: 15px;
+}

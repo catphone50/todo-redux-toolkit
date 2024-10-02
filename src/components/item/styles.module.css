@@ -1,0 +1,11 @@
+.item_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+}
+
+.completed {
+  text-decoration: line-through;
+  color: rgba(55, 54, 56, 0.5);
+}
